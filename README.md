@@ -8,5 +8,5 @@ CircularCash helps users find convenient buyback centers for their recyclable it
 
 
 
-![logo1](https://github.com/user-attachments/assets/fa49bb84-d3b1-4cb9-bd63-3354cc2b93ee)
+                        ![logo1](https://github.com/user-attachments/assets/fa49bb84-d3b1-4cb9-bd63-3354cc2b93ee)
 
