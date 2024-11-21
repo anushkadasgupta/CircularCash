@@ -1,4 +1,5 @@
 # CircularCash                                  
-Your Waste, Your Wealth: Get paid to be green ☘💲                                                      
+Your Waste, Your Wealth: Get paid to be green ☘💲                                       ![resize-17321929401174461257circularcash](https://github.com/user-attachments/assets/99fcbcd3-bfa1-48c9-8a2f-0c01f5bf0afc)
+               
 
-![circularcash](https://github.com/user-attachments/assets/5d3ed45c-9a82-421c-90f2-c61cec8d85b5)
+
